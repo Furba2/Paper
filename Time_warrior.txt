@@ -1,0 +1,72 @@
+Start Tracking
+timew start coding
+
+Multiple tag
+timew start coding review python
+
+Stop Tracking
+timew stop
+Current Tracking
+timew
+
+Delete 
+timew del @4
+
+Change Start Time
+timew modify start @3 03:45
+Change End Time
+timew modify end @3 05:20
+
+Result
+Start : 03:45
+End   : 05:20
+Total : 1:35
+
+Add tag
+timew tag @2 sleep
+
+Remove tag
+timew untag @2 nature
+
+Replace tag
+timew untag @2 nature read walk
+timew tag @2 walk read sleep
+
+View Data
+
+Today report
+timew day
+
+Weekly report
+timew week
+
+Monthly report
+timew month
+
+Summary
+timew summary
+
+Useful Workflow
+
+Start working
+timew start coding_review
+
+Stop working
+timew stop
+
+View data 
+
+timew summary:yesterday
+timew summary:week
+timew summary:lastweek
+timew summary:month
+timew summary:year
+
+View detail data
+
+timew day
+timew week
+timew month
+
+Export entire history
+timew export
