@@ -1,5 +1,3 @@
-Upload File to GitHub Using Termux on Android
-
 # Grant storage access (so you can access files from Downloads, etc.)
 termux-setup-storage
 
